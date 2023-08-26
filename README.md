@@ -11,21 +11,19 @@ Welcome to the repository for the Dynamic Migration ETL (Extract, Transform, Loa
 
 3. **Import the Project in Talend:**
    - Open Talend Open Studio for Big Data.
-   - From the menu, go to `File > Import Project`.
-   - Select the root directory of the downloaded project.
-   - Follow the prompts to import the project.
+   - create a new project.
+   - import the project (u downloaded) to the new project u created in talend.
+   - Select job designs > case study > Dynamic_ETL_Oracle_to_MySQL.
+   - Create the database in Mysql.
+  
 
 ## Running the ETL Job
 
 1. **Configure Database Connections:**
-   - In Talend, navigate to the `Metadata` folder in the Project Explorer.
-   - Right-click and select `Create Connection` to set up connections for both Oracle and MySQL databases.
-   
-2. **Review and Adjust Mapping:**
-   - Open the main ETL job design.
-   - Review the mapping of source and target tables. Ensure that mappings for data types and transformations are accurate.
+   - u will need to modify two components (Oracle_connection,MYSQL_connection) to suit the properities like(username, hostname,database,schema,password). 
 
-3. **Run the ETL Job:**
+
+2. **Run the ETL Job:**
    - Right-click the ETL job in the Project Explorer and select `Run`.
    - Choose the appropriate execution context, and the job will execute the migration.
 
