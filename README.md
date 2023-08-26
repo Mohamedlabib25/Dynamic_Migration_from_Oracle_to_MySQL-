@@ -36,5 +36,5 @@ Explore a detailed walkthrough of the Dynamic Migration ETL Job and its capabili
 [![Dynamic Migration ETL Job Video](https://github.com/Mohamedlabib25/Dynamic_Migration_from_Oracle_to_MySQL-/assets/132618266/f0d0b9e5-e460-4319-8b14-c131f084c45e)](https://github.com/Mohamedlabib25/Dynamic_Migration_from_Oracle_to_MySQL-/assets/132618266/f0d0b9e5-e460-4319-8b14-c131f084c45e)
 
 ## Notice:
-You can modify this job to handle different scenarios and databases by adjusting the database connections, mapping, and transformations accordingly. This ETL framework provides the flexibility to migrate data across a wide range of source and target databases.
+You can modify this job to handle different scenarios and databases by adjusting the database connections, and some other few components. This ETL framework provides the flexibility to migrate data across a wide range of source and target databases.
 
