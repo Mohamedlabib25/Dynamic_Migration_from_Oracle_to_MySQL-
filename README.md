@@ -1,6 +1,13 @@
 # Dynamic Migration ETL Job:  Data Migration
 
-Welcome to the repository for the Dynamic Migration ETL (Extract, Transform, Load) Job, a versatile solution designed to simplify the migration process between various source and target databases using Talend Open Studio for Big Data (version 8.0.1). This guide provides instructions for getting started:
+Welcome to the repository for the Dynamic Migration ETL (Extract, Transform, Load) Job ,a versatile solution designed to simplify the migration process between various source and target databases using Talend Open Studio for Big Data (version 8.0.1). This guide provides instructions for getting started:
+
+## Key Features:
+This single ETL job can do all of these :-
+ - Flexible Schema and Constraints Migration: Migrate schema components, including data types, sizes, primary keys, foreign keys, and unique constraints.
+
+ - Data Transformation: Extract data from the source (HR schema for Oracle DB in our case), transform it to match the target data types and formats (like date formats), and load it efficiently into the destination tables (in MySQL DB).
+
 
 ## Getting Started
 
