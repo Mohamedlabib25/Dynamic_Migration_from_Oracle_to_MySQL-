@@ -1,7 +1,7 @@
 # Dynamic Migration ETL Job: Oracle to MySQL
 
 Welcome to the repository for the Dynamic Migration ETL (Extract, Transform, Load) Job, tailored to simplify the migration process from Oracle databases to MySQL using Talend Open Studio for Big Data (version 8.0.1). This guide provides instructions for getting started:
-
+  
 ## Getting Started
 
 1. **Prerequisites:** Ensure you have Talend Open Studio for Big Data version 8.0.1 installed on your machine.
