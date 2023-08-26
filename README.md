@@ -9,3 +9,7 @@
   
 - **Data Migration:** It  pulls data from Oracle, and transforms some of it to suit the target data types and formats like date and loads it into MySQL tables.
 
+
+
+https://github.com/Mohamedlabib25/Dynamic_Migration_from_Oracle_to_MySQL-/assets/132618266/626e97b1-8697-4ba7-8086-430fdd40c1c4
+
