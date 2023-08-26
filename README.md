@@ -7,7 +7,7 @@ Welcome to the repository for the Dynamic Migration ETL (Extract, Transform, Loa
 1. **Prerequisites:** Ensure you have Talend Open Studio for Big Data version 8.0.1 installed on your machine.
 
 2. **Download the Project:**
-   - Clone this repository or download it as a ZIP file and extract it to your preferred location.
+   - Download Dynamic ETL RAR File.
 
 3. **Import the Project in Talend:**
    - Open Talend Open Studio for Big Data.
